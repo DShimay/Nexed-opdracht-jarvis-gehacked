@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+header {
+    background-color: #1a1a8c;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    padding: 7px;
+}
+
+nav {
+display: flex;
+
+}
+
+nav div {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin: 0 3px 0 3px;
+   
+}
+
+nav div img {
+    width: 30px;
+    height: 30px;
+    margin-right: 3px;
+}
+.feedback {
+    background-color: #ffc0cb;
+    border-radius: 6px;
+    color: #42ad6b;
+}
+
+.rechts{
+    display: flex;
+    align-items: center;
+    margin-bottom: 7px;
+    padding-left: 5px;
+    margin-left: 10px;
+   
+}
+
+.rechts img{
+    width: 31px;
+    height: 30px;
+    border-radius: 100px;
+    margin-left: 10px;
+  
+}
+.progressbar{
+    background-color: #86dae4;
+    border-radius: 5px;
+    width: 200px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+}
+.progress{
+    width: 3%;
+    height: 100%;
+    background-color: #4f9eed;
+    border-radius: 5px;
+}
+.level{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.credits{
+    display: flex;
+    align-items: center;
+    
+}
+
+.meer{
+    margin-left: -16px;
+}
+
+.links img{
+    width: 90px;
+    height: 45px;
+}
+
+
+
+  table, th, td,tr{  
+  border-bottom: 1px solid;
+  border-collapse: collapse;
+  border-color: #ddd;
+  padding: 10px; 
+}
+
+th{
+    color: #b4b4b4;
+}
+
+.main-content-container {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.content-box {
+    display: flex;
+    justify-content: center;
+}
+
+.left-content {
+margin-right: 20px;
+}
+
+.right-content {
+    box-shadow: 0 3px 1px -2px #0003, 0 2px 2px #00000024, 0 1px 5px #0000001f;
+    padding: 20px;
+    width: 17%;
+}
+
+.button{
+    background-color: #56bd8d;
+    border: none;
+    border-radius: 4px;
+    width: 80px;
+    height: 30px;
+    padding: 7px;
+    box-shadow: 0 3px 1px -2px #0003, 0 2px 2px #00000024, 0 1px 5px #0000001f;
+    color: #ffffff;
+}
+ .right-content img{
+    
+    width: 100%;
+}
+
+.table-container {
+    box-shadow: 0 3px 1px -2px #0003, 0 2px 2px #00000024, 0 1px 5px #0000001f;
+    padding: 10px 30px 10px 30px;
+
+}
+
+
+
+
+
+
+
+
